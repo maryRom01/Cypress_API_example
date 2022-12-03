@@ -1,0 +1,22 @@
+{
+  "name": "cypress_api_example",
+  "version": "1.0.0",
+  "description": "Test Framework example",
+  "main": "index.js",
+  "scripts": {
+    "cy:test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maryRom01/Cypress_API_example.git"
+  },
+  "author": "Maryna Romanets",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maryRom01/Cypress_API_example/issues"
+  },
+  "homepage": "https://github.com/maryRom01/Cypress_API_example#readme",
+  "devDependencies": {
+    "cypress": "^8.5.0"
+  }
+}

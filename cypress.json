@@ -1,0 +1,6 @@
+{
+    "testFiles": "**/*.js",
+    "modifyObstructiveCode": true,
+    "video": false,
+    "screenshotOnRunFailure": false
+}
